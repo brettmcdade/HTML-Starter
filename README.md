@@ -1,4 +1,4 @@
 HTML-Starter
 ============
 
-just something to get me started a little quicker.
+Starter files and folder structure for new projects based on HTML 5 Boilerplate.
